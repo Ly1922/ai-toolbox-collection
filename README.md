@@ -5,6 +5,10 @@
 
 ---
 
+## 📊 每日 AI 工具情报
+
+- **2026-06-20** — [📄 查看](./daily-briefings/2026-06-20.md)
+
 ## 🎨 亚马逊美工/电商视觉
 
 - **AIFBA Codex Skills** — 亚马逊主图/A+图/标题/卖点专用技能包（8个Skill），安装后Codex里直接说"分析此产品的主图方案" | [→](https://github.com/corli-AIFBA/aifba-codex-skills)
