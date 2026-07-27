@@ -1,29 +1,25 @@
 # 🧰 小莹精选 AI 工具箱
 
 > 亚马逊美工 · AI Agent 技能 · 游戏开发 · 实用工具
-> 更新：2026-06-24
+> 更新：2026-07-27
 
-- **2026-07-01** — [📄 查看](./daily-briefings/2026-07-01.md)
+- **2026-07-24** — [Midjourney V8.2 发布 & 收购 Co-Star](./daily-briefings/2026-07-24.md)
 
-- **2026-06-30** — [📄 查看](./daily-briefings/2026-06-30.md)
+- **2026-07-23** — [FLUX 3 开启早期访问 & 亚马逊 AI 政策更新](./daily-briefings/2026-07-23.md)
 
-- **2026-06-29** — [📄 查看](./daily-briefings/2026-06-29.md)
+- **2026-07-21** — [Google Gemini 3.6 Flash 系列发布](./daily-briefings/2026-07-21.md)
 
-- **2026-06-28** — [📄 查看](./daily-briefings/2026-06-28.md)
+- **2026-07-20** — [Hermes Agent 'Quicksilver' (v0.19.0) 释放](./daily-briefings/2026-07-20.md)
 
-- **2026-06-27** — [📄 查看](./daily-briefings/2026-06-27.md)
+- **2026-07-17** — [Luma Ray 3.2 速度革命](./daily-briefings/2026-07-17.md)
 
-- **2026-06-26** — [📄 查看](./daily-briefings/2026-06-26.md)
+- **2026-07-12** — [快手可灵 AI (Kling) 3.0 发布](./daily-briefings/2026-07-12.md)
 
-- **2026-06-25** — [📄 查看](./daily-briefings/2026-06-25.md)
+- **2026-07-09** — [OpenAI GPT-5.6 家族正式面世](./daily-briefings/2026-07-09.md)
 
-- **2026-06-24** — [📄 查看](./daily-briefings/2026-06-24.md)
+- **2026-07-08** — [OpenAI 发布 GPT-Live-1 语音模型](./daily-briefings/2026-07-08.md)
 
-- **2026-06-23** — [📄 查看](./daily-briefings/2026-06-23.md)
-
-- **2026-06-22** — [📄 查看](./daily-briefings/2026-06-22.md)
-
----
+- **2026-07-03** — [Claude Code 浏览器插件正式商用](./daily-briefings/2026-07-03.md)
 
 ## 📊 每日 AI 工具情报
 
