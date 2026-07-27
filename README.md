@@ -40,6 +40,16 @@
 - **short-video-factory** — 批量产品短视频 | [→](https://github.com/YILS-LIN/short-video-factory)
 - **amazon-listing-image-agent** — 亚马逊副图 Agent | [→](https://github.com/hehu369001-in/amazon-listing-image-agent)
 
+## 🌐 AI 代理与 API 转换 (反代/聚合)
+
+- **AIClient2API** — 主人正在使用的全能 AI 代理，支持 Codex/Claude/Gemini/Grok 全协议转换与负载均衡 | [→](https://github.com/justlovemaki/AIClient2API)
+- **DeepSeek-Claude-Proxy** — 专门为 Claude Code 设计的 50 倍成本优化代理 | [→](https://github.com/cariconjugal320/deepseek-claude-proxy)
+- **CLIProxyAPI** — 将多种逆向模型包装为标准 OpenAI/Gemini 接口的强力工具 | [→](https://github.com/router-for-me/CLIProxyAPI)
+- **openai-gemini** — 部署在 Cloudflare Workers 上的极轻量级 Gemini 转 OpenAI 代理 | [→](https://github.com/PublicAffairs/openai-gemini)
+- **llmux** — 支持多账号自动轮询的 Claude 专用代理，解决高频调用配额问题 | [→](https://github.com/2lab-ai/llmux)
+- **WindsurfAPI** — 将 Windsurf/Devin 云端 100+ 模型转化为标准 API | [→](https://github.com/dwgx/WindsurfAPI)
+- **ccx** — Claude / Codex / Gemini 统一 API 代理 | [→](https://github.com/BenedictKing/ccx)
+
 ## 🤖 AI Agent / Skills 框架
 
 - **AI Canvas** — Codex里的AI无限画布，文字出图→箭头/文字标注→自动生成新版，完美适配出图→改图→定稿工作流 | [→](https://github.com/binghe1980/AI-Canvas)
