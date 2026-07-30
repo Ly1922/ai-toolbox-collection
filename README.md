@@ -1,7 +1,7 @@
 # 🧰 小莹精选 AI 工具箱
 
 > 亚马逊美工 · AI Agent 技能 · 游戏开发 · 实用工具
-> 更新：2026-07-27
+> 更新：2026-07-30
 
 - **2026-07-30** — [📄 查看](./daily-briefings/2026-07-30.md)
 
@@ -91,3 +91,5 @@
 - **bull-doctor** — 一键切换Hermes/Claude Code到国产大模型（DeepSeek/通义千问/智谱），省成本 | [→](https://github.com/Explorer-Zero-N/bull-doctor)
 - **CodePaidie** — 把ChatGPT/Gemini/Kimi变成免费本地编码环境，`pip install codepaidie` | [→](https://github.com/CLYiX/CodePaidie)
 - **DeployBot** — Agent管理的GitHub merge queue，支持Codex/Claude Code/Cursor自动部署 | [→](https://github.com/Forward-Future/DeployBot)
+- **OpenSquilla** — Token-Efficient 微内核 AI Agent（CLI/Web UI/聊天频道），本地模型路由器自动选最便宜能搞定的模型，带持久记忆/沙箱/网页搜索/本地向量嵌入；与 Hermes 定位类似的 Agent 框架 | [→](https://github.com/opensquilla/opensquilla)
+- **倪海厦skill（nihaixia）** — 经方中医 AI，将倪海厦伤寒论/金匮/黄帝内经/本草/医案蒸馏为可激活 Agent Skill，六经辨证、经方选药；激活词「倪海厦/倪师/经方思维」 | [→](https://github.com/jangviktor-web/nihaixia)
