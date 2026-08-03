@@ -91,6 +91,7 @@
 
 - **Karpathy Skills** — 编码行为指南 | [→](https://github.com/multica-ai/andrej-karpathy-skills)
 - **claude-code-tips** (⭐8.8K) — 43 条实战技巧 | [→](https://github.com/ykdojo/claude-code-tips)
+- **独立开发 / 出海变现开源清单** — 一人公司·出海收款·AI 副业 6 个高星仓库（Star 已核实）| [→](./INDEPENDENT_DEV_RESOURCES.md)
 
 ## 🔧 其他实用工具
 
